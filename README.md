@@ -12,7 +12,7 @@
 # --------------- 广告 ---------------
 
 # recap九宫格
-
+# 详细的视频讲解地址：https://www.bilibili.com/video/BV1wA7FzAEeZ/?vd_source=4e60c6c3075c23c4aef0f545b39459b8
 ## 1.分析
 
 ![6](assets/6.jpg)
